@@ -1,3 +1,5 @@
+Hi 👋, I'm Darshan Bhansali
+
 # 💫 About Me:
 🚀 What I’m working on:<br><br>AI-powered chatbots & assistants<br><br>GenAI applications for text, image, and data tasks<br><br>Interactive dashboards (Power BI, Streamlit)<br><br>RAG-based and multi-agent AI systems<br><br>🔧 Tech stack:<br>Python | Power BI | SQL | Streamlit | OpenCV | LangChain | Scikit-learn | Generative AI APIs<br><br>🌱 Currently learning:<br><br>Advanced Generative AI workflows<br><br>Fine-tuning LLMs<br><br>Multi-agent collaboration with public APIs<br><br>📫 Let’s connect:<br>Check out my repositories or reach out to collaborate on innovative AI and data projects!
 
